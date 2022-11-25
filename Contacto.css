@@ -1,0 +1,6 @@
+.form-group{
+    background-color: black;
+    color: white;
+    box-sizing: content-box;
+    min-height: auto;
+}
